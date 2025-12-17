@@ -25,10 +25,13 @@ O projeto tem como objetivo o desenvolvimento de um minidrone, abrangendo desde 
 7. Prenda um **barbante** na placa utilizando fita crepe, para facilitar o manuseio.
 8. Mergulhe a placa em **percloreto de ferro** por cerca de **15 minutos**.
 
+<div align="center">
+
 | Resultado |
 | --------- |
-| <img width="445" height="384" alt="image" src="https://github.com/user-attachments/assets/9edbebf9-3826-4194-82b6-4a2f0a2b5e01" /> |
+| <img width="550" height="450" alt="image" src="https://github.com/user-attachments/assets/9edbebf9-3826-4194-82b6-4a2f0a2b5e01" /> |
 
+</div>
 
 > [!CAUTION]
 > O percloreto de ferro é responsável por corroer a camada de cobre da placa.
