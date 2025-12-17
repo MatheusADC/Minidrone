@@ -7,7 +7,7 @@ O projeto tem como objetivo o desenvolvimento de um minidrone, abrangendo desde 
 - 4 x Transistor MOSFET SI2300 SOT-23 SMD
 - 4 x Diodo 1N4148 SOD-323 SMD
 - 4 x Capacitor 100nF 50V 0805 SMD 
-- 6 x Resistor 10K 0805 SMD 912 (9.1 kOhms)
+- 6 x Resistor 0805 SMD 912 (9.1 kOhms)
 - 4 x Motor com hélice 
 - 1 x Conector JST 2pinos curvo
 - 1 x Bateria LiPO 3.7v 250mAh
