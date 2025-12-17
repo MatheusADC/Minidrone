@@ -22,8 +22,9 @@ O projeto tem como objetivo o desenvolvimento de um minidrone, abrangendo desde 
 4. **Fixe** a folha impressa na placa com fita crepe, garantindo que o lado impresso fique em contato direto com a face limpa da placa.
 5. Aplique **acetona** sobre o papel e pressione-o firmemente contra a placa por aproximadamente **10 minutos**.
 6. Remova **cuidadosamente** o papel sob água corrente.
-7. Prenda um **barbante** na placa utilizando fita crepe, para facilitar o manuseio.
-8. Mergulhe a placa em **percloreto de ferro** por cerca de **15 minutos**.
+7. Faça a limpeza da superfície utilizando **palha de aço**.
+8. Prenda um **barbante** na placa utilizando fita crepe, para facilitar o manuseio.
+9. Mergulhe a placa em **percloreto de ferro** por cerca de **15 minutos**.
 
 <div align="center">
 
