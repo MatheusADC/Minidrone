@@ -24,7 +24,7 @@ O projeto tem como objetivo o desenvolvimento de um minidrone, abrangendo desde 
 6. Remova **cuidadosamente** o papel sob água corrente.
 7. Faça a limpeza da superfície utilizando **palha de aço**.
 8. Prenda um **barbante** na placa utilizando fita crepe, para facilitar o manuseio.
-9. Mergulhe a placa em **percloreto de ferro** por cerca de **15 minutos**.
+9. Mergulhe a placa em **percloreto férrico**, sem encostá-la no fundo do recipiente, por cerca de **10 a 15 minutos**.
 
 <div align="center">
 
