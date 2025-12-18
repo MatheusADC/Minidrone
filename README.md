@@ -26,13 +26,13 @@ O projeto tem como objetivo o desenvolvimento de um minidrone, abrangendo desde 
 8. Prenda um **barbante** na placa utilizando fita crepe, para facilitar o manuseio.
 9. Mergulhe a placa em **percloreto de ferro** por cerca de **15 minutos**.
 
-<div align="center">
+<!--<div align="center">-->
 
 | Resultado |
 | --------- |
-| <img width="550" height="450" alt="image" src="https://github.com/user-attachments/assets/9edbebf9-3826-4194-82b6-4a2f0a2b5e01" /> |
+| <img width="550" height="450" alt="Placa com as trilhas" src="https://github.com/user-attachments/assets/9edbebf9-3826-4194-82b6-4a2f0a2b5e01" /> |
 
-</div>
+<!--</div>-->
 
 > [!CAUTION]
 > O percloreto de ferro é responsável por corroer a camada de cobre da placa.
@@ -41,3 +41,14 @@ O projeto tem como objetivo o desenvolvimento de um minidrone, abrangendo desde 
 > Um indicativo de **excesso de corrosão** é o surgimento de manchas de **coloração rosa** na superfície da placa.
 
 9. Utilize um **furador manual para placas de fenolite** a fim de realizar os furos necessários para a passagem dos fios e do conector da bateria.
+
+# <img src="https://img.icons8.com/?size=100&id=19937&format=png&color=000000" alt="Ícone de ferro de solda" width="28"> Microsoldagem
+- Para soldar os componentes recomenda-se utilizar a **pasta de solda**.
+- Para os **fios** e o **conector JST** recomenda-se usar o estanho em fio.
+  
+| Solda dos componentes | Solda dos fios |
+| --------------------- | ---------------|
+| <img width="554" height="414" alt="Solda dos componentes" src="https://github.com/user-attachments/assets/2ab4f90b-412c-43de-95ca-b9c2db0a44f6" /> | <img width="554" height="360" alt="Solda dos fios" src="https://github.com/user-attachments/assets/49e2af48-6783-4c04-bcac-5c605ae0e1cc" /> |
+
+> [!TIP]
+> Para faciliar a solda dos componentes eletroeletrônicos pode-se utilizar uma **mesa para solda**.
