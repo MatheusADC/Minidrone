@@ -21,10 +21,11 @@ O projeto tem como objetivo o desenvolvimento de um minidrone, abrangendo desde 
 3. Imprima o arquivo da [PCB](https://github.com/MatheusADC/Minidrone/blob/main/PCB.pdf).
 4. **Fixe** a folha impressa na placa com fita crepe, garantindo que o lado impresso fique em contato direto com a face limpa da placa.
 5. Aplique **acetona** sobre o papel e pressione-o firmemente contra a placa por aproximadamente **10 minutos**.
-6. Remova **cuidadosamente** o papel sob água corrente.
-7. Faça a limpeza da superfície utilizando **palha de aço**.
-8. Prenda um **barbante** na placa utilizando fita crepe, para facilitar o manuseio.
-9. Mergulhe a placa em **percloreto férrico**, sem encostá-la no fundo do recipiente, por cerca de **10 a 15 minutos**.
+6. Aguarde a acetona **evaporar**, isto é, a tinta da impressão do circuito no papel A4 ficar quase imperceptível.
+7. Remova **cuidadosamente** o papel sob água corrente.
+8. Faça a limpeza da superfície utilizando **palha de aço**.
+9. Prenda um **barbante** na placa utilizando fita crepe, para facilitar o manuseio.
+10. Mergulhe a placa em **percloreto férrico**, sem encostá-la no fundo do recipiente, por cerca de **10 a 15 minutos**.
 
 <div align="center">
 
