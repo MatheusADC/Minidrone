@@ -53,3 +53,21 @@ O projeto tem como objetivo o desenvolvimento de um minidrone, abrangendo desde 
 
 > [!TIP]
 > Para faciliar a solda dos componentes eletroeletrônicos pode-se utilizar uma **mesa para solda**.
+
+# <img src="https://img.icons8.com/?size=100&id=X6SIpL5zjQgw&format=png&color=000000" alt="Ícone de multímetro" width="32"> Testes do Circuito Elétrico
+
+## Teste de Continuidade da Trilha
+
+1. Ajuste o multímetro para o **modo diodo**.
+
+<div align="center">
+
+| Teste de Continuidade |
+| --------------------- |
+| <img width="420" height="640" alt="Teste de continuidade da trilha" src="https://github.com/user-attachments/assets/b47b1c5b-abab-450a-a00a-887826aed2cc" /> |
+
+</div>
+
+2. Ao posicionar as ponteiras do multímetro sobre um trecho **contínuo da trilha**, o equipamento emitirá um **sinal sonoro** característico, indicando condução elétrica.
+
+3. Caso seja detectada continuidade elétrica entre trilhas que **não deveriam estar conectadas**, recomenda-se utilizar um **estilete** para realizar um pequeno corte na junção entre elas. Em seguida, repita o teste para confirmar a **descontinuidade** elétrica.
