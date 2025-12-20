@@ -71,3 +71,17 @@ O projeto tem como objetivo o desenvolvimento de um minidrone, abrangendo desde 
 2. Ao posicionar as ponteiras do multímetro sobre um trecho **contínuo da trilha**, o equipamento emitirá um **sinal sonoro** característico, indicando condução elétrica.
 
 3. Caso seja detectada continuidade elétrica entre trilhas que **não deveriam estar conectadas**, recomenda-se utilizar um **estilete** para realizar um pequeno corte na junção entre elas. Em seguida, repita o teste para confirmar a **descontinuidade** elétrica.
+
+## Teste de Resistência Elétrica
+
+1. Ajuste o multímetro para o **modo ohmímetro 20kΩ**.
+
+<div align="center">
+
+| Teste de Resistência |
+| -------------------- | 
+| <img width="337" height="606" alt="Teste de Resistência Elétrica" src="https://github.com/user-attachments/assets/4b93a065-7ab1-45da-b635-701bdf9c9a46" /> |
+
+</div>
+
+2. Ao posicionar as ponterias do multímetro nas extremidades de um resistor, o valor exibido no _display_ do multímetro deve ser próximo de **912**.
