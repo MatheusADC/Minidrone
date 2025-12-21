@@ -1,6 +1,14 @@
 # <img src="https://github.com/user-attachments/assets/caabfdf0-0f9e-44a3-8200-c6579fe87887" alt="Ícone de descrição" width="28"> Descrição
 O projeto tem como objetivo o desenvolvimento de um minidrone, abrangendo desde a elaboração do **circuito elétrico** e a confecção da **placa principal**, até a implementação do código em **C++** e a impressão e montagem do **chassi**.
 
+<div align="center">
+
+| Minidrone |
+| --------- |
+| <img width="759" height="409" alt="image" src="https://github.com/user-attachments/assets/2ae3a3e9-0fbe-44a4-bf8f-a7ee4d6c8133" /> |
+
+</div>
+
 # <img src="https://img.icons8.com/?size=100&id=6fwwyUCDlCBj&format=png&color=000000" alt="Ícone de componentes" width="28"> Componentes
 - 1 x ESP32-S3
 - 1 x Módulo GY-521 MPU-6050
@@ -85,3 +93,24 @@ O projeto tem como objetivo o desenvolvimento de um minidrone, abrangendo desde 
 </div>
 
 2. Ao posicionar as ponterias do multímetro nas extremidades de um resistor, o valor exibido no _display_ do multímetro deve ser próximo de **912**.
+
+<!--# <sub><img src="https://img.icons8.com/?size=100&id=hJkVmtuljaPn&format=png&color=000000" alt="Ícone de circuito elétrico" width="38"></sub>Soldagem entre placas-->
+
+# <sub><img src="https://img.icons8.com/?size=100&id=Nv6J9PwDcFPC&format=png&color=000000" alt="Ícone de Minidrone" width="38"></sub> Resultado
+
+<div align="center">
+  
+| Vista Superior | Vista Inferior |
+| -------------- | -------------- |
+| <img width="400" height="300" alt="Vista Superior" src="https://github.com/user-attachments/assets/7cc02762-5f23-4d72-beb8-dc56e27d7383" /> | <img width="400" height="300" alt="Vista Inferior" src="https://github.com/user-attachments/assets/6d40bc5c-28f5-461e-98d0-7942b0a8e9ee" /> |
+
+| Vista Isométrica | Porção Interna |
+| --------------- | -------------- |
+| <img width="400" height="300" alt="Vista Isométrica" src="https://github.com/user-attachments/assets/e2b1066f-6a23-4b2c-8c51-f87b16b32a70" /> | <img width="400" height="300" alt="Porção Interna" src="https://github.com/user-attachments/assets/047b45eb-fa33-47fc-8e94-1a6cfec40667" /> |
+
+</div>
+
+
+
+
+
