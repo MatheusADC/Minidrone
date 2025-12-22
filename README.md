@@ -96,6 +96,35 @@ O projeto tem como objetivo o desenvolvimento de um minidrone, abrangendo desde 
 
 <!--# <sub><img src="https://img.icons8.com/?size=100&id=hJkVmtuljaPn&format=png&color=000000" alt="Ícone de circuito elétrico" width="38"></sub>Soldagem entre placas-->
 
+# <sub><img src="https://img.icons8.com/?size=100&id=Of4lZV2lwBQI&format=png&color=000000" alt="Ícone do Arduino" width="34"></sub> Configurações do Arduino IDE 
+1. Adicione o repositório oficial da Espressif em **File > Preferences > Additional boards manager URLs > OK**.
+```
+https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
+```
+| Adição da URL do Repositório |
+| ---------------------------- |
+| <img width="1920" height="907" alt="image" src="https://github.com/user-attachments/assets/3ea5b0b8-fc54-4516-ab2f-a984854b18a4" /> |
+
+2. Instale o **Gerenciador de Placas** da família ESP32.
+   
+| Gerenciador de Placas ESP32 |
+| --------------------------- |
+| <img width="1919" height="913" alt="image" src="https://github.com/user-attachments/assets/bdec3265-93d0-4b8a-8056-fa05dd9a1553" /> |
+
+3. Escolha o ESP32S3 como placa padrão em **Tools > Board > esp32 > ESP32S3 Dev Module**.
+
+| Placa padrão |
+| ------------ |
+| <img width="1917" height="897" alt="image" src="https://github.com/user-attachments/assets/4857ac86-8e35-442b-8eaf-38fbd4818ada" /> |
+
+4. Determine a porta de conexão do computador com a placa ESP32S3 pelo USB em **Tools > Port**.
+
+| Determinação da porta |
+| --------------------- |
+| <img width="1919" height="914" alt="image" src="https://github.com/user-attachments/assets/02d451dd-37fe-4647-8607-e3092a35b0c3" /> |
+
+
+
 # <sub><img src="https://img.icons8.com/?size=100&id=Nv6J9PwDcFPC&format=png&color=000000" alt="Ícone de Minidrone" width="38"></sub> Resultado
 
 <div align="center">
@@ -109,8 +138,3 @@ O projeto tem como objetivo o desenvolvimento de um minidrone, abrangendo desde 
 | <img width="400" height="300" alt="Vista Isométrica" src="https://github.com/user-attachments/assets/e2b1066f-6a23-4b2c-8c51-f87b16b32a70" /> | <img width="400" height="300" alt="Porção Interna" src="https://github.com/user-attachments/assets/047b45eb-fa33-47fc-8e94-1a6cfec40667" /> |
 
 </div>
-
-
-
-
-
