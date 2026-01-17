@@ -23,7 +23,7 @@ O projeto tem como objetivo o desenvolvimento de um minidrone, abrangendo desde 
 - Percloreto de Ferro
 - Placa de Fenolite
 
-# <img src="https://img.icons8.com/?size=100&id=RdjjyEyZkl99&format=png&color=000000" alt="Ícone de placa" width="28"> Processo de Manufatura da Placa Principal
+# <sub><img src="https://img.icons8.com/?size=100&id=RdjjyEyZkl99&format=png&color=000000" alt="Ícone de placa" width="32"></sub> Processo de Manufatura da Placa Principal
 1. **Corte** um pedaço de placa de fenolite nas dimensões desejadas.
 2. Faça a limpeza da superfície utilizando **palha de aço**.
 3. Imprima o arquivo da [PCB](https://github.com/MatheusADC/Minidrone/blob/main/PCB.pdf).
